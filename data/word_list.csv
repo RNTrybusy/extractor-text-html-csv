@@ -1,0 +1,463 @@
+id,word,reading,translation-pt-br,jlpt
+1,見せる,みせる・miseru,Mostrar,N5
+2,鍵,かぎ・kagi,Chave,N5
+3,古い,ふるい・furui,Antigo; velho; ultrapassado,N5
+4,ご飯,ごはん・gohan,Arroz cozido; refeição,N5
+5,交番,こうばん・kouban,Posto policial comunitário,N5
+6,厚い,あつい・atsui,Grosso; espesso (tamanho),N5
+7,向こう,むこう・mukou,Outro lado; além; ali; lá,N5
+8,降る,ふる・furu,Chover; nevar,N5
+9,黒い,くろい・kuroi,Preto,N5
+10,今晩,こんばん・konban,Hoje à noite; esta noite,N5
+11,困る,こまる・komaru,Estar com problemas; estar incomodado,N5
+12,座る,すわる・suwaru,Sentar,N5
+13,細い,ほそい・hosoi,Fino; estreito,N5
+14,撮る,とる・toru,Fotografar; filmar; gravar,N5
+15,死ぬ,しぬ・shinu,Morrer,N5
+16,若い,わかい・wakai,Jovem; jovial; imaturo,N5
+17,弱い,よわい・yowai,Fraco; frágil; delicado,N5
+18,習う,ならう・narau,Aprender (com um professor); ser ensinado,N5
+19,住む,すむ・sumu,Morar; habitar; residir,N5
+20,重い,おもい・omoi,Pesado,N5
+21,始め,はじめ・hajime,Início; começo,N5
+22,初め,はじめ・hajime,Primeiro; primeira vez,N5
+23,暑い,あつい・atsui,Quente (contrário de frio),N5
+24,熱い,あつい・atsui,Quente (contrário de gelado),N5
+25,小さい,ちいさい・chiisai,Pequeno,N5
+26,少ない,すくない・sukunai,Pouco; insuficiente; escasso,N5
+27,できる,dekiru,Ser capaz de fazer; estar pronto; estar feito,N5
+28,消える,きえる・kieru,Desaparecer; sumir; desligar-se; apagar-se,N5
+29,食べる,たべる・taberu,Comer,N5
+30,晴れる,はれる・hareru,Ficar ensolarado; clarear (o céu); parar de chover,N5
+31,疲れる,つかれる・tsukareru,Se cansar; ficar exausto,N5
+32,締める,しめる・shimeru,Amarrar; prender; apertar; vestir gravata ou cinto,N5
+33,忙しい,いそがしい・isogashii,Ocupado; agitado,N5
+34,面白い,おもしろい・omoshiroi,Interessante; fascinante; divertido; engraçado,N5
+35,欲しい,ほしい・hoshii,Desejável; “quero”,N5
+36,消す,けす・kesu,"Apagar; remover; eliminar; desligar (luz, TV etc.)",N5
+37,涼しい,すずしい・suzushii,Fresquinho; geladinho; refrescante,N5
+38,辛い,からい・karai,Picante,N5
+39,暖かい,あたたかい・atatakai,Quentinho,N5
+40,なる,naru,Tornar-se,N5
+41,可愛い,かわいい・kawaii,Fofinho; bonitinho,N5
+42,青い,あおい・aoi,"Azul; verde (fruta, semáforo…)",N5
+43,飲み物,のみもの・nomimono,Bebida,N5
+44,答える,こたえる・kotaeru,Responder (um questionamento),N5
+45,乗る,のる・noru,Embarcar,N5
+46,お菓子,おかし・okashi,Doce; guloseima,N5
+47,洗う,あらう・arau,Lavar,N5
+48,一昨日,おととい・ototoi,Anteontem,N5
+49,多い,おおい・ooi,Numeroso,N5
+50,待つ,まつ・matsu,Esperar; aguardar,N5
+51,持つ,もつ・motsu,Segurar na mão; levar; possuir; manter,N5
+52,冷たい,つめたい・tsumetai,Gelado (contrário de quente ao toque); frio (sentido figurado),N5
+53,貸す,かす・kasu,Emprestar; alugar,N5
+54,脱ぐ,ぬぐ・nugu,Despir-se; tirar peça de roupa,N5
+55,短い,みじかい・mijikai,Curto,N5
+56,遅い,おそい・osoi,Tardio; lento,N5
+57,茶色,ちゃいろ・chairo,Marrom,N5
+58,飛ぶ,とぶ・tobu,Voar,N5
+59,長い,ながい・nagai,Longo; comprido,N5
+60,痛い,いたい・itai,Doloroso; ai! (exclamação de dor),N5
+61,渡る,わたる・wataru,Atravessar,N5
+62,同じ,おなじ・onaji,Igual; mesmo; idêntico; similar,N5
+63,豚肉,ぶたにく・butaniku,Carne de porco,N5
+64,曇る,くもる・kumoru,Ficar nublado; embaçar-se; turvar-se,N5
+65,入る,はいる・hairu,Entrar,N5
+66,白い,しろい・shiroi,Branco,N5
+67,薄い,うすい・usui,"Fino; ralo; diluído; fraco (sabor, cor…); esparso",N5
+68,風呂,ふろ・furo,Banho; banheiro; banheira; casa de banho,N5
+69,並ぶ,ならぶ・narabu,Enfileirar-se; ficar em fila,N5
+70,本棚,ほんだな・hondana,Estante de livros,N5
+71,毎晩,まいばん・maiban,Toda noite,N5
+72,また,mata,De novo; outra vez; novamente,N5
+73,遊ぶ,あそぶ・asobu,Brincar; jogar,N5
+74,来る,くる・kuru,Vir,N5
+75,話す,はなす・hanasu,Conversar; contar; falar um idioma,N5
+76,なぜ,naze,Por que,N5
+77,どこ,doko,Onde,N5
+78,今朝,けさ・kesa,Esta manhã,N5
+79,上着,うわぎ・uwagi,Blusa; casaco; jaqueta,N5
+80,醤油,しょうゆ・shouyu,Molho de soja,N5
+81,立つ,たつ・tatsu,Ficar em pé; levantar-se; erguer-se,N5
+82,丸い,まるい・marui,Redondo; esférico; circular,N5
+83,キロ,kiro,Quilo; quilograma,N5
+84,ドア,doa,Porta (de dobradiça),N5
+85,バス,basu,Ônibus,N5
+86,パン,pan,Pão,N5
+87,ペン,pen,Caneta,N5
+88,いる,iru,Existir (seres vivos),N5
+89,開く,あく・aku,Abrir-se,N5
+90,聞く,きく・kiku,Ouvir; perguntar,N5
+91,お腹,おなか・onaka,Barriga; abdome; estômago,N5
+92,では,dewa,Então… (conjunção); até… (despedida),N5
+93,どう,dou,Como; de que maneira; que tal,N5
+94,どれ,dore,Qual (entre 3 ou mais opções),N5
+95,もう,mou,Já; mais…; “aff”,N5
+96,引く,ひく・hiku,Puxar; subtrair (matemática); pegar (resfriado),N5
+97,近く,ちかく・chikaku,Proximidades; arredores; perto de; vizinhança,N5
+98,好き,すき・suki,Gostável; agradável; preferido; favorito,N5
+99,咲く,さく・saku,Florescer; desabrochar,N5
+100,書く,かく・kaku,Escrever,N5
+101,吹く,ふく・fuku,Soprar; ventar; tocar instrumento de sopro,N5
+102,弾く,ひく・hiku,Tocar instrumento de corda,N5
+103,置く,おく・oku,Colocar; deixar; posicionar,N5
+104,着く,つく・tsuku,Chegar,N5
+105,歩く,あるく・aruku,Andar; caminhar,N5
+106,磨く,みがく・migaku,Polir; escovar,N5
+107,まだ,mada,Ainda,N5
+108,鳴く,なく・naku,"Fazer som de animal (cantar, gorjear, rugir, miar, mugir, coaxar, etc.)",N5
+109,行く,いく・iku,Ir,N5
+110,この,kono,Este,N5
+111,履く,はく・haku,Vestir (vestimentas da cintura para baixo); calçar,N5
+112,これ,kore,Isto,N5
+113,良い,いい・ii,Bom; OK; suficiente,N5
+114,はい,hai,Sim; certo; entendido; pois não,N5
+115,一月,ひとつき・hitotsuki,Um mês,N5
+116,鶏肉,とりにく・toriniku,Carne de frango,N5
+117,など,nado,Et cetera; entre outros,N5
+118,お弁当,おべんとう・obentou,Marmita; bentô,N5
+119,背中,せなか・senaka,Costas (do corpo),N5
+120,ペット,petto,Animal de estimação; pet,N5
+121,お皿,おさら・osara,Prato,N5
+122,お酒,おさけ・osake,Bebida alcoólica,N5
+123,子供,こども・kodomo,Criança,N5
+124,言う,いう・iu,Dizer; falar,N5
+125,意味,いみ・imi,Significado; sentido,N5
+126,一番,いちばん・ichiban,Primeiro; número um; o mais; o melhor,N5
+127,右,みぎ・migi,Direita,N5
+128,左,ひだり・hidari,Esquerda,N5
+129,上,うえ・ue,Cima,N5
+130,下,した・shita,Baixo (contrário de cima),N5
+131,夏,なつ・natsu,Verão,N5
+132,冬,ふゆ・fuyu,Inverno,N5
+133,秋,あき・aki,Outono,N5
+134,春,はる・haru,Primavera,N5
+135,映画,えいが・eiga,Filme,N5
+136,音楽,おんがく・ongaku,Música (arte),N5
+137,家族,かぞく・kazoku,Família,N5
+138,会社,かいしゃ・kaisha,Empresa,N5
+139,外国,がいこく・gaikoku,País estrangeiro,N5
+140,学校,がっこう・gakkou,Escola,N5
+141,学生,がくせい・gakusei,Estudante,N5
+142,銀行,ぎんこう・ginkou,Banco; instituição bancária,N5
+143,言葉,ことば・kotoba,Palavra; termo; linguagem,N5
+144,午後,ごご・gogo,Período após o meio-dia; período da tarde,N5
+145,午前,こぜん・gozen,Período antes do meio-dia; período da manhã,N5
+146,今月,こんげつ・kongetsu,Este mês,N5
+147,仕事,しごと・shigoto,Trabalho; ocupação; “job”,N5
+148,時間,じかん・jikan,Tempo; horário; período,N5
+149,質問,しつもん・shitsumon,Questão; pergunta,N5
+150,写真,しゃしん・shashin,Foto,N5
+151,少し,すこし・sukoshi,Um pouco,N5
+152,新聞,しんぶん・shinbun,Jornal,N5
+153,大学,だいがく・daigaku,Universidade; faculdade,N5
+154,電話,でんわ・denwa,Telefone,N5
+155,病院,びょういん・byouin,Hospital,N5
+156,問題,もんだい・mondai,Questão (numa prova); problema,N5
+157,来年,らいねん・rainen,Ano que vem; próximo ano,N5
+158,一緒,いっしょ・issho,Junto; ao mesmo tempo; idêntico,N5
+159,英語,えいご・eigo,Inglês (idioma),N5
+160,結婚,けっこん・kekkon,Casamento,N5
+161,公園,こうえん・kouen,Parque (público),N5
+162,雑誌,ざっし・zasshi,Revista,N5
+163,使う,つかう・tsukau,Usar,N5
+164,生徒,せいと・seito,Aluno,N5
+165,先月,せんげつ・sengetsu,Mês passado,N5
+166,先生,せんせい・sensei,Professor; mestre; doutor,N5
+167,大切,たいせつ・taisetsu,Importante; precioso,N5
+168,大変,たいへん・taihen,Muito; sério; difícil; grave,N5
+169,知る,しる・shiru,Saber; conhecer; compreender,N5
+170,電気,でんき・denki,Eletricidade; luz elétrica,N5
+171,動物,どうぶつ・doubutsu,Animal,N5
+172,半分,はんぶん・hanbun,Metade,N5
+173,病気,びょうき・byouki,Doença,N5
+174,部屋,へや・heya,Quarto; cômodo,N5
+175,本当,ほんとう・hontou,Verdade; realidade; fato,N5
+176,名前,なまえ・namae,Nome; primeiro nome,N5
+177,旅行,りょこう・ryokou,Viagem,N5
+178,料理,りょうり・ryouri,Culinária; prato; refeição,N5
+179,練習,れんしゅう・renshuu,Treino; exercício; prática,N5
+180,今日,きょう・kyou,Hoje,N5
+181,教室,きょうしつ・kyoushitsu,Sala de aula,N5
+182,建物,たてもの・tatemono,Prédio,N5
+183,手紙,てがみ・tegami,Carta,N5
+184,授業,じゅぎょう・jugyou,Aula; lição,N5
+185,全部,ぜんぶ・zenbu,Tudo; todo; inteiro,N5
+186,大人,おとな・otona,Adulto,N5
+187,番号,ばんごう・bangou,"Número (telefone, código postal, senha etc.)",N5
+188,勉強,べんきょう・benkyou,Estudo,N5
+189,野菜,やさい・yasai,Hortaliça; legume; verdura,N5
+190,有名,ゆうめい・yuumei,Famoso,N5
+191,来月,らいげつ・raigetsu,Mês que vem; próximo mês,N5
+192,毎年,まいとし・maitoshi,Todo ano; anualmente,N5
+193,作る,つくる・tsukuru,Criar; produzir; manufaturar; construir,N5
+194,お金,おかね・okane,Dinheiro,N5
+195,広い,ひろい・hiroi,Espaçoso; amplo; vasto,N5
+196,電車,でんしゃ・densha,Trem elétrico,N5
+197,友達,ともだち・tomodachi,Amigo,N5
+198,休み,やすみ・yasumi,Descanso; férias; recesso; feriado,N5
+199,今週,こんしゅう・konshuu,Esta semana,N5
+200,静か,しずか・shizuka,Quieto; silencioso; calmo; tranquilo,N5
+201,地図,ちず・chizu,Mapa; atlas,N5
+202,文章,ぶんしょう・bunshou,Frase; escrita,N5
+203,毎週,まいしゅう・maishuu,Toda semana,N5
+204,入口,いりぐち・iriguchi,Entrada,N5
+205,毎月,まいつき・maitsuki,Todo mês,N5
+206,明日,あした・ashita,Amanhã,N5
+207,お茶,おちゃ・ocha,Chá,N5
+208,医者,いしゃ・isha,Médico,N5
+209,元気,げんき・genki,Saudável; bem; animado; vigoroso,N5
+210,後ろ,うしろ・ushiro,Atrás; verso; traseira,N5
+211,取る,とる・toru,Pegar; tomar; obter; agarrar,N5
+212,天気,てんき・tenki,Clima,N5
+213,便利,べんり・benri,Conveniente; útil; prático,N5
+214,来週,らいしゅう・raishuu,Semana que vem; próxima semana,N5
+215,立派,りっぱ・rippa,Digno; elegante; impressionante; louvável; esplêndido,N5
+216,階段,かいだん・kaidan,Escada; escadaria,N5
+217,漢字,かんじ・kanji,Caractere chinês; ideograma chinês,N5
+218,時計,とけい・tokei,Relógio,N5
+219,台所,だいどころ・daidokoro,Cozinha,N5
+220,夕方,ゆうがた・yuugata,Fim da tarde; crepúsculo; noite,N5
+221,時々,ときどき・tokidoki,Às vezes; ocasionalmente,N5
+222,押す,おす・osu,Pressionar; empurrar; carimbar; estampar,N5
+223,牛肉,ぎゅうにく・gyuuniku,Carne bovina,N5
+224,牛乳,ぎゅうにゅう・gyuunyuu,Leite de vaca,N5
+225,結構,けっこう・kekkou,Suficiente; satisfatório; bom; excelente,N5
+226,嫌い,きらい・kirai,Detestável; odiável; desagradável,N5
+227,高い,たかい・takai,Alto; caro,N5
+228,砂糖,さとう・satou,Açúcar,N5
+229,持つ,もつ・motsu,Segurar; carregar; possuir,N5
+230,出口,でぐち・deguchi,Saída,N5
+231,切手,きって・kitte,Selo postal,N5
+232,売る,うる・uru,Vender,N5
+233,頼む,たのむ・tanomu,Pedir; solicitar; implorar; confiar a alguém,N5
+234,果物,くだもの・kudamono,Fruta,N5
+235,荷物,にもつ・nimotsu,Mala; bagagem,N5
+236,作文,さくぶん・sakubun,Redação,N5
+237,洗濯,せんたく・sentaku,Lavagem de roupas,N5
+238,掃除,そうじ・souji,Limpeza; varrição; espanação,N5
+239,帽子,ぼうし・boushi,Chapéu; boné,N5
+240,風邪,かぜ・kaze,Resfriado; gripe,N5
+241,財布,さいふ・saifu,Carteira (de dinheiro),N5
+242,散歩,さんぽ・sanpo,Passeio à pé; caminhada,N5
+243,辞書,じしょ・jisho,Dicionário; léxico,N5
+244,切符,きっぷ・kippu,Bilhete de transporte,N5
+245,走る,はしる・hashiru,"Correr; andar de carro, moto, bicicleta etc.",N5
+246,買う,かう・kau,Comprar,N5
+247,廊下,ろうか・rouka,Corredor,N5
+248,切る,きる・kiru,"Cortar; desligar (luz, telefone, eletrônico)",N5
+249,渡す,わたす・watasu,Levar; transferir; entregar,N5
+250,封筒,ふうとう・fuutou,Envelope,N5
+251,毎朝,まいあさ・maiasa,Toda manhã,N5
+252,洋服,ようふく・youfuku,Roupa ocidental,N5
+253,黄色,きいろ・kiiro,Amarelo,N5
+254,鉛筆,えんぴつ・enpitsu,Lápis,N5
+255,上手,じょうず・jouzu,Habilidoso; proficiente,N5
+256,読む,よむ・yomu,Ler,N5
+257,飲む,のむ・nomu,Beber; tomar,N5
+258,紅茶,こうちゃ・koucha,Chá preto,N5
+259,宿題,しゅくだい・shukudai,Lição de casa,N5
+260,早い,はやい・hayai,Cedo; prematuro,N5
+261,多分,たぶん・tabun,Provavelmente; talvez,N5
+262,着る,きる・kiru,"Vestir (camiseta, blusa, vestido, casaco, partes de cima)",N5
+263,張る,はる・haru,Colar; afixar,N5
+264,歌う,うたう・utau,Cantar,N5
+265,見る,みる・miru,Ver; olhar; observar,N5
+266,赤い,あかい・akai,Vermelho (adjetivo),N5
+267,低い,ひくい・hikui,Baixo,N5
+268,熱い,あつい・atsui,Quente (ao toque); ardente,N5
+269,返す,かえす・kaesu,Devolver; retornar algo; revidar,N5
+270,茶碗,ちゃわん・chawan,Pequena tigela para chá,N5
+271,悪い,わるい・warui,Mau; ruim,N5
+272,安い,やすい・yasui,Barato,N5
+273,椅子,いす・isu,Cadeira,N5
+274,違う,ちがう・chigau,Ser diferente; diferir; estar incorreto,N5
+275,泳ぐ,およぐ・oyogu,Nadar,N5
+276,遠い,とおい・tooi,Longe; distante; remoto,N5
+277,汚い,きたない・kitanai,Sujo; imundo; bagunçado; indecente,N5
+278,下手,へた・heta,Inabilidoso,N5
+279,会う,あう・au,Encontrar-se,N5
+280,寒い,さむい・samui,Frio,N5
+281,甘い,あまい・amai,Doce,N5
+282,帰る,かえる・kaeru,Retornar,N5
+283,休む,やすむ・yasumu,Descansar; tirar férias,N5
+284,吸う,すう・suu,Sugar; aspirar; tragar,N5
+285,強い,つよい・tsuyoi,Forte; potente; poderoso,N5
+286,狭い,せまい・semai,Estreito; confinado; apertado,N5
+287,近い,ちかい・chikai,Perto; próximo,N5
+288,靴下,くつした・kutsushita,Meia (peça de roupa),N5
+289,軽い,かるい・karui,Leve,N5
+290,曲がる,まがる・magaru,Dobrar; curvar; torcer; virar,N5
+291,教える,おしえる・oshieru,Ensinar; instruir; informar,N5
+292,起きる,おきる・okiru,Acordar; levantar; ocorrer,N5
+293,いくら,ikura,Quanto custa,N5
+294,いくつ,ikutsu,Quantos; qual idade,N5
+295,危ない,あぶない・abunai,Perigoso; arriscado,N5
+296,かかる,kakaru,"Levar (tempo, dinheiro)",N5
+297,楽しい,たのしい・tanoshii,Divertido; agradável; prazeroso,N5
+298,覚える,おぼえる・oboeru,Memorizar; decorar; lembrar; ter em mente; aprender,N5
+299,火曜日,かようび・kayoubi,Terça-feira,N5
+300,わかる,wakaru,Compreender; entender,N5
+301,閉まる,しまる・shimaru,Fechar-se; trancar-se; apertar-se; tensionar-se,N5
+302,借りる,かりる・kariru,Pegar emprestado; alugar; contratar,N5
+303,止まる,とまる・tomaru,Parar de fazer algo,N5
+304,交差点,こうさてん・kousaten,"Cruzamento (rua, avenida, estrada)",N5
+305,終わる,おわる・owaru,Acabar-se; finalizar-se; terminar-se; concluir-se,N5
+306,降りる,おりる・oriru,Descer; desembarcar; desmontar,N5
+307,いいえ,iie,Não; de nada,N5
+308,喫茶店,きっさてん・kissaten,Cafeteria,N5
+309,浴びる,あびる・abiru,Banhar,N5
+310,明るい,あかるい・akarui,Claro; iluminado; brilhante; de cor viva; alegre,N5
+311,映画館,えいがかん・eigakan,Cinema,N5
+312,冷蔵庫,れいぞうこ・reizouko,Geladeira; refrigerador,N5
+313,大好き,だいすき・daisuki,Adorável; amável; querido,N5
+314,新しい,あたらしい・atarashii,Novo; recente; atualizado; moderno,N5
+315,食べ物,たべもの・tabemono,Comida,N5
+316,大きい,おおきい・ookii,Grande,N5
+317,郵便局,ゆうびんきょく・yuubinkyoku,Correio (local),N5
+318,難しい,むずかしい・muzukashii,Difícil; complicado; problemático,N5
+319,男の子,おとこのこ・otoko no ko,Menino,N5
+320,買い物,かいもの・kaimono,Compras,N5
+321,大丈夫,だいじょうぶ・daijoubu,Tudo bem,N5
+322,女の子,おんなのこ・on'na no ko,Menina,N5
+323,勤める,つとめる・tsutomeru,Trabalhar para (alguém); ser empregado de (alguém); servir como; atuar como,N5
+324,留学生,りゅうがくせい・ryuugakusei,Estudante intercambista,N5
+325,飛行機,ひこうき・hikouki,Avião; aeronave,N5
+326,地下鉄,ちかてつ・chikatetsu,Metrô,N5
+327,図書館,としょかん・toshokan,Biblioteca,N5
+328,自転車,じてんしゃ・jitensha,Bicicleta,N5
+329,大使館,たいしかん・taishikan,Embaixada,N5
+330,上げる,あげる・ageru,"Erguer; elevar; emergir; empinar (pipa); soltar (fogos); atracar (um barco); aumentar (preço, qualidade); dar; fazer algo por alguém",N5
+331,自動車,じどうしゃ・jidousha,Automóvel; veículo motorizado,N5
+332,外国人,がいこくじん・gaikokujin,Estrangeiro,N5
+333,お風呂,おふろ・ofuro,Banho,N5
+334,朝ご飯,あさごはん・asagohan,Café da manhã,N5
+335,昼ご飯,ひるごはん・hirugohan,Almoço,N5
+336,晩ご飯,ばんごはん・bangohan,Janta,N5
+337,点ける,つける・tsukeru,Ligar (um eletrônico); acender (a luz),N5
+338,二十日,はつか・hatsuka,Dia 20 do mês,N5
+339,二十歳,はたち・hatachi,20 anos de idade,N5
+340,明後日,あさって・asatte,Depois de amanhã,N5
+341,木曜日,もくようび・mokuyoubi,Quinta-feira,N5
+342,なくす,nakusu,"Perder (coisas); se livrar de (situações, coisas, fatos)",N5
+343,忘れる,わすれる・wasureru,Esquecer,N5
+344,並べる,ならべる・naraberu,Enfileirar; enumerar,N5
+345,しかし,shikashi,Porém; entretanto; contudo,N5
+346,まずい,mazui,Ruim (gosto); desfavorável (situação),N5
+347,入れる,いれる・ireru,"Inserir; incluir; admitir (em um grupo, situação, local)",N5
+348,日曜日,にちようび・nichiyoubi,Domingo,N5
+349,賑やか,にぎやか・nigiyaka,Agitado (local); animado (local); movimentado,N5
+350,土曜日,どようび・doyoubi,Sábado,N5
+351,誕生日,たんじょうび・tanjoubi,Aniversário (nascimento),N5
+352,水曜日,すいようび・suiyoubi,Quarta-feira,N5
+353,初めて,はじめて・hajimete,Pela primeira vez; primeira vez,N5
+354,月曜日,げつようび・getsuyoubi,Segunda-feira,N5
+355,金曜日,きんようび・kin’youbi,Sexta-feira,N5
+356,あなた,anata,Você; “querido” (forma de chamar o marido),N5
+357,かばん,kaban,Bolsa; mala; pasta,N5
+358,開ける,あける・akeru,Abrir (porta); desembrulhar; destrancar,N5
+359,どうぞ,douzo,Sinta-se à vontade; vá em frente; aqui está (ao entregar algo pra alguém),N5
+360,いつも,itsumo,Sempre; toda vez,N5
+361,もっと,motto,Mais,N5
+362,とても,totemo,Muito,N5
+363,じゃあ,jaa,Então…; bem…,N5
+364,こんな,kon’na,Deste tipo,N5
+365,あそこ,asoko,Ali; partes íntimas (eufemismo),N5
+366,きれい,kirei,Belo; lindo,N5
+367,ラジオ,rajio,Rádio,N5
+368,マッチ,macchi,Palito de fósforo; partida (match),N5
+369,ボタン,botan,Botão,N5
+370,ホテル,hoteru,Hotel,N5
+371,ページ,peeji,Página,N5
+372,ベッド,beddo,Cama,N5
+373,プール,puuru,Piscina,N5
+374,バター,bataa,Manteiga,N5
+375,ノート,nooto,Caderno,N5
+376,ナイフ,naifu,Faca,N5
+377,トイレ,toire,Banheiro; toalete,N5
+378,テレビ,terebi,Televisão,N5
+379,テスト,tesuto,Teste,N5
+380,ズボン,zubon,Calça,N5
+381,コピー,kopii,Cópia,N5
+382,コップ,koppu,Copo,N5
+383,グラム,guramu,Grama (unidade de medida),N5
+384,クラス,kurasu,Aula; classe,N5
+385,ギター,gitaa,Guitarra,N5
+386,カレー,karee,Curry,N5
+387,カメラ,kamera,Câmera,N5
+388,たくさん,takusan,Muito; bastante,N5
+389,八百屋,やおや・yaoya,Quitanda,N5
+390,いろいろ,iroiro,Vários; diversos,N5
+391,だんだん,dandan,Gradualmente; pouco a pouco,N5
+392,アパート,apaato,Apartamento,N5
+393,エレベーター,erebeetaa,Elevador,N5
+394,エスカレーター,esukareetaa,Escada rolante,N5
+395,カレンダー,karendaa,Calendário,N5
+396,コーヒー,koohii,Café,N5
+397,シャワー,shawaa,Chuveiro; banho,N5
+398,スカート,sukaato,Saia (vestimenta),N5
+399,ストーブ,sutoobu,Aquecedor,N5
+400,スプーン,supuun,Colher,N5
+401,スポーツ,supootsu,Esporte,N5
+402,スリッパ,surippa,Chinelo/pantufa para andar dentro de casa ou em outros ambientes internos,N5
+403,セーター,seetaa,Suéter,N5
+404,タクシー,takushii,Táxi,N5
+405,テーブル,teeburu,Mesa,N5
+406,デパート,depaato,Loja de departamento,N5
+407,ニュース,nyuusu,Notícia (da mídia); noticiário,N5
+408,ネクタイ,nekutai,Gravata,N5
+409,ハンカチ,hankachi,Lenço,N5
+410,パーティ,paati,Festa,N5
+411,フォーク,fooku,Garfo,N5
+412,ボールペン,boorupen,Caneta esferográfica,N5
+413,ポケット,poketto,Bolso,N5
+414,メートル,meetoru,Metro (unidade de medida),N5
+415,レストラン,resutoran,Restaurante,N5
+416,ちょっと,chotto,Um pouco; ei!,N5
+417,お兄さん,おにいさん・oniisan,Irmão mais velho; rapaz; moço,N5
+418,お姉さん,おねえさん・oneesan,Irmã mais velha; garota; moça,N5
+419,おじいさん,ojiisan,Avô; senhor de idade,N5
+420,おばあさん,obaasan,Avó; senhora de idade,N5
+421,つまらない,tsumaranai,Chato; desinteressante; insignificante; sem importância; trivial,N5
+422,お手洗い,おてあらい・otearai,Toalete; lavabo; banheiro,N5
+423,ゆっくり,yukkuri,Devagar; lentamente; suavemente; tranquilamente,N5
+424,生まれる,うまれる・umareru,Nascer,N5
+425,ちょうど,choudo,Exatamente; precisamente; justamente,N5
+426,どうして,doushite,Por que,N5
+427,うるさい,urusai,Barulhento; irritante; incômodo; chato,N5
+428,おいしい,oishii,Saboroso; delicioso; gostoso,N5
+429,まっすぐ,massugu,Direto; reto; em linha reta,N5
+430,もう一度,もういちど・mou ichido,Mais uma vez; de novo; novamente,N5
+431,おじさん,ojisan,Tio; senhor; homem de meia idade,N5
+432,おばさん,obasan,Tia; senhora; mulher de meia idade,N5
+433,お父さん,おとうさん・otousan,Pai,N5
+434,お母さん,おかあさん・okaasan,Mãe,N5
+435,優しい,やさしい・yasashii,Gentil; bondoso; carinhoso,N5
+436,僕,ぼく・boku,Eu (linguagem masculina),N4
+437,中学校,ちゅうがっこう・chuugakkou,Escola que ensina o equivalente ao Fundamental 2,N4
+438,地震,じしん・jishin,Terremoto,N4
+439,消しゴム,けしごむ・keshigomu,Borracha (de apagar),N4
+440,十分,じゅうぶん・juubun,Suficiente; bastante,N4
+441,国内,こくない・kokunai,Interno ao país; nacional; doméstico,N4
+442,客,きゃく・kyaku,Cliente; visitante,N4
+443,熱心,ねっしん・nesshin,Entusiasmo; fervor,N4
+444,驚く,おどろく・odoroku,Surpreender-se; espantar-se; chocar-se,N4
+445,お祭り,おまつり・omatsuri,Festival,N4
+446,お見舞い,おみまい・omimai,Visita ou desejo de melhora a alguém doente,N4
+447,思い出す,おもいだす・omoidasu,Recordar; lembrar,N4
+448,親,おや・oya,Pai e/ou mãe; progenitor,N4
+449,最後,さいご・saigo,Final; conclusão; último,N4
+450,楽しみ,たのしみ・tanoshimi,Diversão; expectativa,N4
+451,点,てん・ten,Ponto; nota,N4
+452,店員,てんいん・ten’in,Atendente; balconista,N4
+453,伝える,つたえる・tsutaeru,Transmitir; relatar; comunicar,N4
+454,受付,うけつけ・uketsuke,Recepção; balcão de informações,N4
+455,輸入,ゆにゅう・yunyuu,Importação,N4
+456,文化,ぶんか・bunka,Cultura,N4
+457,増える,ふえる・fueru,Multiplicar; aumentar,N4
+458,複雑,ふくざつ・fukuzatsu,Complexo; complicado,N4
+459,昼間,ひるま・hiruma,Período diurno; durante o dia,N4
+460,意見,いけん・iken,Opinião; visão; comentário,N4
+461,生きる,いきる・ikiru,Viver; existir,N4
+462,字,じ・ji,Caractere; letra,N4
